@@ -16,24 +16,25 @@ MAGI does **not** determine or prescribe clinical conduct; its objective is to s
 
 ## 📄 Scientific Preprint & Citation
 
-Our methodology, multi-persona design, and experimental validation are detailed in our preprint submitted to **arXiv.org**:
+Our methodology, multi-persona design, and experimental validation are detailed in our preprint published on **Preprints.org**:
 
-> **MAGI System: A Multipersona Framework for Ethical Deliberation and Criticality Triage in Clinical Decision-Support Guardrails**
-> *Gerson Hiroshi Yoshinari Júnior*
-> Preprint submitted to arXiv.org.
-> **arXiv Identifier / DOI:** `[PENDENTE: ADICIONAR DOI / LINK ARXIV APÓS APROVAÇÃO]` 
+> **Human Review Requirements in Clinical AI: The MAGI Multipersona Framework**  
+> *Gerson Hiroshi Yoshinari Júnior, Luciano Magalhães Vitorino*  
+> Preprints.org (Concept Paper).  
+> **Preprint Link:** [https://www.preprints.org/manuscript/202609.0646/v1](https://www.preprints.org/manuscript/202609.0646/v1)  
+> **DOI:** [`10.20944/preprints202609.0646.v1`](https://doi.org/10.20944/preprints202609.0646.v1)
 
 ### BibTeX Citation
 
 ```bibtex
-@article{yoshinari2026magi,
-  title={MAGI System: A Multipersona Framework for Ethical Deliberation and Criticality Triage in Clinical Decision-Support Guardrails},
-  author={Yoshinari J{\'u}nior, Gerson Hiroshi},
-  journal={arXiv preprint},
+@article{yoshinari2026human,
+  title={Human Review Requirements in Clinical AI: The MAGI Multipersona Framework},
+  author={Yoshinari J{\'u}nior, Gerson Hiroshi and Vitorino, Luciano Magalh{\~a}es},
+  journal={Preprints.org},
   year={2026},
-  note={DOI: [PENDING - INSERT DOI HERE]}
+  doi={10.20944/preprints202609.0646.v1},
+  url={[https://www.preprints.org/manuscript/202609.0646/v1](https://www.preprints.org/manuscript/202609.0646/v1)}
 }
-
 ```
 
 ---

@@ -1,5 +1,3 @@
-Na tela do editor do GitHub (aba **Edit**), você deve apagar as 3 linhas que estão lá (`# magi_debate`, `MAGI Debate framework`, etc.) e colar o texto abaixo exatamente como está:
-
 # MAGI System: Multi-Agent Ethical Debate Framework
 
 **Automated Clinical Ethics Deliberation via Iterative Multi-Agent Consensus**

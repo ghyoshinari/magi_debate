@@ -1,3 +1,5 @@
+Na tela do editor do GitHub (aba **Edit**), você deve apagar as 3 linhas que estão lá (`# magi_debate`, `MAGI Debate framework`, etc.) e colar o texto abaixo exatamente como está:
+
 # MAGI System: Multi-Agent Ethical Debate Framework
 
 **Automated Clinical Ethics Deliberation via Iterative Multi-Agent Consensus**
@@ -160,15 +162,21 @@ As AI reasoning achieves higher coherence, healthcare providers face **automatio
 
 MAGI stratifies deliberative complexity into actionable escalation levels:
 
-| Alert Level                   |  Operational Criteria                                  | Framework Action & Requirement |
+| Alert Level | Operational Criteria | Framework Action & Requirement |
+| --- | --- | --- |
+| **Level 1 Alert (Low)** | Rapid consensus ($\ge 80\%$) achieved within 2 rounds
 
-| **Level 1 Alert (Low)**       | Rapid consensus ($\ge 80\%$) achieved within 2 rounds. | Generates Unified Consensus Report with full audit
-                                                                                         |  trail for routine human sign-off.
-| **Level 2 Alert (Medium)**    | Late consensus (rounds 3 to 5) with polarity shifts.   | **Deliberation Pause**: Graphical display of points
-                                                                                         |  of friction prior to final synthesis.
-| **Level 3 Alert (Critical)**  | Absence of consensus after 5 rounds (impasse)          | **Mandatory Lockout**: Prohibits automated
-                                                                                         |  resolution; requires exclusively human
-                                                                                         |  multidisciplinary ethics committee deliberation.
+ | Generates Unified Consensus Report with full audit trail for routine human sign-off.
+
+ |
+| **Level 2 Alert (Medium)** | Late consensus (rounds 3 to 5) with polarity shifts
+
+ | **Deliberation Pause**: Graphical display of points of friction prior to final synthesis.
+
+ |
+| **Level 3 Alert (Critical)** | Absence of consensus after 5 rounds (impasse)
+
+ | **Mandatory Lockout**: Prohibits automated resolution; requires exclusively human multidisciplinary ethics committee deliberation.
 
  |
 

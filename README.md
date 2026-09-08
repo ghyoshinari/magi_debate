@@ -156,28 +156,14 @@ All interactions, intermediate themes, and convergence metrics are logged in a l
 
 As AI reasoning achieves higher coherence, healthcare providers face **automation bias**—the tendency to place uncritical trust in algorithmically flawless arguments and passively delegate final moral decisions. The **Human-on-the-Loop (HOTL)** design ensures that the system serves as an advisory consultation body, never replacing human moral and clinical agency.
 
-### 2. Graduated Alert Levels & Mandatory Dual Verification
-
+### 2. Graduated Alert Levels and Mandatory Dual Verification
 MAGI stratifies deliberative complexity into actionable escalation levels:
 
-| Alert Level | Operational Criteria | Framework Action & Requirement |
-| --- | --- | --- |
-| **Level 1 Alert (Low)** | Rapid consensus ($\ge 80\%$) achieved within 2 rounds
-
- | Generates Unified Consensus Report with full audit trail for routine human sign-off.
-
- |
-| **Level 2 Alert (Medium)** | Late consensus (rounds 3 to 5) with polarity shifts
-
- | **Deliberation Pause**: Graphical display of points of friction prior to final synthesis.
-
- |
-| **Level 3 Alert (Critical)** | Absence of consensus after 5 rounds (impasse)
-
- | **Mandatory Lockout**: Prohibits automated resolution; requires exclusively human multidisciplinary ethics committee deliberation.
-
- |
-
+| Alert Level | Operational Criteria | Framework Action and Requirement |
+| :--- | :--- | :--- |
+| **Level 1 Alert (Low)** | Rapid consensus (>= 80%) achieved within 2 rounds | Generates Unified Consensus Report with full audit trail for routine human sign-off. |
+| **Level 2 Alert (Medium)** | Late consensus (rounds 3 to 5) with polarity shifts | **Deliberation Pause**: Graphical display of points of friction prior to final synthesis. |
+| **Level 3 Alert (Critical)** | Absence of consensus after 5 rounds (impasse) | **Mandatory Lockout**: Prohibits automated resolution; requires exclusively human multidisciplinary ethics committee deliberation. |
 > While other autonomous architectures delegate dual verification to adversarial secondary models, in the MAGI framework **critical-tier validation is strictly human**.
 > 
 > 
